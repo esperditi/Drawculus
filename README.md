@@ -1,2 +1,2 @@
 # Drawculus
-Wii Drawing App Oculus
+Unity 3D-based application that integrates an the Oculus and wiimote
