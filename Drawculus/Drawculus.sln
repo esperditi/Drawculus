@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{01A6E172-6485-820A-6FDF-6B0414B205E6}") = "Drawculus", "Assembly-CSharp.csproj", "{DD7562ED-4672-05CE-3C63-87DBFB54ADDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7562ED-4672-05CE-3C63-87DBFB54ADDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7562ED-4672-05CE-3C63-87DBFB54ADDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7562ED-4672-05CE-3C63-87DBFB54ADDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7562ED-4672-05CE-3C63-87DBFB54ADDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
